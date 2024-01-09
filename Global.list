@@ -36,6 +36,43 @@ HOST-SUFFIX, openaicomproductionae4b.blob.core.windows.net, OpenAI
 HOST-SUFFIX, poe.com, OpenAI
 HOST-SUFFIX, segment.io, OpenAI
 HOST-SUFFIX, stripe.com, OpenAI
+host, shrtm.nu, PROXY
+host, www.paopao.dog, PROXY
+host, rt.applovin.com, PROXY
+host, my.nicegram.app, PROXY
+host, flowercloud.net, PROXY
+host, x.com, PROXY
+host, apis.bilin.eu.org, proxy
+host, ghbtns.com, PROXY
+host, www.obfuscator.io, PROXY
+host, client.relay.crisp.chat, PROXY
+host, client.crisp.chat, PROXY
+host, huacloud.net, PROXY
+host, cdnjs.cloudflare.com, PROXY
+host, res.stayfork.app, PROXY
+host, tagss01.pro, PROXY
+host, challenges.cloudflare.com, PROXY
+host, y-too.com, PROXY
+host, wlzg.ltd, PROXY
+host, receiptcheck.quantumult.app, PROXY
+host, ocsp.digicert.com, PROXY
+host, scripthub.vercel.app, PROXY
+host, api.stentvessel.top, PROXY
+host, api.huacloud.xyz, PROXY
+host, zero.76898102.xyz, PROXY
+host, anti-ad.net, PROXY
+host, cp.cloudflare.com, PROXY
+host, api.mixpanel.com, PROXY
+host-suffix, pstatp.com, PROXY
+host, ocsp.sectigo.com, PROXY
+host, api.mbrx.app, PROXY
+host, receiptcheck.quantumult.app,PROXY
+host, www.iios.fun, PROXY
+host, ocsp.comodoca.com, PROXY
+host, qxnav.com, PROXY
+host, nbtool8.com, proxy
+host, api.swiftgram.app, proxy
+host-suffix, gitlab.com, proxy
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
