@@ -15,6 +15,7 @@
 host-suffix, ingest.sentry.io, proxy
 host-suffix, statsig.com, proxy
 HOST-SUFFIX, ai.com, proxy
+HOST-SUFFIX, browser-intake-datadoghq.com, proxy
 HOST-SUFFIX, auth0.com, proxy
 HOST-SUFFIX, challenges.cloudflare.com, proxy
 HOST-SUFFIX, chat.openai.com.cdn.cloudflare.net, proxy
