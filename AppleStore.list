@@ -1,2 +1,3 @@
-host, iosapps.itunes.apple.com //更新app
+host, iosapps.itunes.apple.com //下载
 host, updates.cdn-apple.com //更新系统
+host, odr.itunes.apple.com //下载
